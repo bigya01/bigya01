@@ -1,29 +1,51 @@
-# Hi there 👋
+<div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header"/>
+</p>
+</div>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&color=f1f1f1&duration=3000&center=true&vCenter=true&lines=Hi,+there!+👋;I'm+Bindu Paudel.;Welcome&center=true&size=30">
+  </a>
+</h1>
 
-🛠️ **Tools I Use:**
-<br/><br/>
-![Flutter](https://img.shields.io/badge/-Flutter-black?style=for-the-badge&logo=flutter)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=Django)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwindcss-black?style=for-the-badge&logo=tailwindcss&logoColor=1572B6)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
-![C/C++](https://img.shields.io/badge/-C%2FC++-black?style=for-the-badge&logo=c%2B%2B)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
+<p align="center">
+  <a href="https://bindupaudel.com.np/">
+    <img src="https://img.shields.io/badge/personal_website-000000?style=for-the-badge&logoColor=white"/>
+  </a>&nbsp;
 
+  <a href="https://www.linkedin.com/in/bindu01/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+    <a href="https://github.com/bigya01?tab=followers">
+    <img src="https://img.shields.io/github/followers/krishantt.svg?style=social&label=Follow&maxAge=2592000" alt="Followers"/>
+  </a>
+</p>
+<div>
 
-📈 **My GitHub Stats:**
+## 📊 &nbsp;GitHub Stats
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bigya01&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
-  
+  <a href="https://github.com/bigya01">
+    <img width=450 height=170 align="center" alt="bigya" src="https://github-readme-stats.vercel.app/api?username=bigya01&theme=dark&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/bigya01">
+    <img align="center" alt="bigya" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigya01&theme=dark&layout=compact&bg_color=0D1117&hide_border=true&count_private=true&hide=jupyter+notebook,html,scss,css,C" />
+  </a>
+</div>
+
+<div>
+
+## 🔥 &nbsp;Streak Stats
+
+<p align="center">
+  <a href="https://github.com/bigya01">
+    <img alt="Bigya's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bigya01&fire=pink&theme=dark&background=0D1117&hide_border=true"/>
+  </a>
 </p>
 
-<p>
-  
-  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bigya01&theme=dracula" alt="rubiin"/>
- 
+<p align="center">
+  <a href="https://github.com/bigya01">
+    <img width="50%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+  </a>
 </p>
-
-
